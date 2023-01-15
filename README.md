@@ -1,2 +1,1 @@
-# someShitArt
-Practica 2
+
